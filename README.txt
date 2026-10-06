@@ -13,4 +13,3 @@ The two project screenshots are included as:
 - project-home.jpeg
 - project-footer.jpeg
 
-You can replace these images with better screenshots later.
